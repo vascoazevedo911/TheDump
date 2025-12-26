@@ -1,0 +1,8 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+google-cloud-storage==2.10.0
+google-cloud-vision==3.4.4
+elasticsearch==7.17.10
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+SQLAlchemy==2.0.23 # Adicionado explicitamente para compatibilidade com SQLAlchemy 2
